@@ -16,7 +16,7 @@ header {
     justify-content: center;
     align-items: flex-start;
     align-content: flex-start;
-    color: green;
+    color: black;
 }
 
 .header-title {
@@ -110,7 +110,7 @@ footer {
     justify-content: center;
     align-items: flex-start;
     align-content: flex-start;
-    color: green;
+    color: black;
 }
 
 .footer-text {
